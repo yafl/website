@@ -27,3 +27,4 @@ hugo version
    ```
 
 The list of blog posts at `https://probelab.io/blog/` will automatically be updated to also include the new post. 
+test clone
